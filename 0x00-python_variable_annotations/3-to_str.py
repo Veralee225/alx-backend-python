@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-'''Task 2's module.
+'''Task 3's module.
 '''
 
 
-def floor(a: float) -> int:
-    '''Computes the floor of a floating-point number.
+def to_str(n: float) -> str:
+    '''Converts a floating-point number to a string.
     '''
-    return int(a)
+    return str(n)
